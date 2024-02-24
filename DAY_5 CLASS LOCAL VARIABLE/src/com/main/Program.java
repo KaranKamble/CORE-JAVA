@@ -30,7 +30,7 @@ class Test {
 	}
 
 	public void printRecord() {
-		System.out.println("First Number :" + this.num1);
+		System.out.println("First Number  :" + this.num1);
 		System.out.println("Second Number :" + this.num2);
 		System.out.println("Third Number :" + Test.num3);
 	}
